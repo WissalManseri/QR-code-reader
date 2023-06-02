@@ -1,5 +1,6 @@
 # QR Code Reader
 
+
 This project implements a QR code reader using Python and the OpenCV library. The reader detects and decodes QR codes in real-time using a computer's webcam.
 
 # Installation
